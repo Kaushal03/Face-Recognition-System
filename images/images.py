@@ -34,6 +34,7 @@ def scrappi(data, n_images, img_format, folder_name):
                 return folder_name
             except: return check(folder_name)
             
+            
     folder_name = check(folder_name)
 
     print('Starting to Download...')
