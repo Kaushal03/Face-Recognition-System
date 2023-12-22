@@ -1,7 +1,7 @@
 # Face Recognition System
 A face recognition system is a technology that identifies and verifies individuals based on their facial features. It involves capturing and analyzing facial patterns from images or video frames to match them against a database of known faces.
 
-![image](https://github.com/Kaushal03/Face-Recognition-System/assets/67416597/de865a38-8a76-4859-a4ee-0bbc6306d2e1)
+![image](https://github.com/Kaushal03/Face-Recognition-System/assets/67416597/ed482c9f-f0d9-4abe-98c9-4bbb21c7694b)
 
 
 REQUIREMENTS :
