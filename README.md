@@ -19,5 +19,4 @@ A face recognition system is a technology that identifies and verifies individua
   <p>Make sure to install these dependencies before running the project.</p>
 
 ### Dataset
-
 Using the haarcascade_frontalface_default.xml file, which is used to detect and recognise faces, we will train the model.
