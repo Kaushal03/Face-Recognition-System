@@ -3,10 +3,32 @@ A face recognition system is a technology that identifies and verifies individua
 
 ![image](https://github.com/Kaushal03/Face-Recognition-System/assets/67416597/ed482c9f-f0d9-4abe-98c9-4bbb21c7694b)
 
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Project Requirements</title>
+</head>
+<body>
 
-REQUIREMENTS :
-                1) OPEN CV -> pip install opencv-python
-                2) NUMPY   -> pip install numpy
-                3) PYTTSX3 -> pip install pyttsx3
+  <h2>Requirements:</h2>
+
+  <ol>
+    <li><b>OpenCV:</b> Install using the following command:</li>
+    <pre><code>pip install opencv-python</code></pre>
+
+    <li><b>NumPy:</b> Install using the following command:</li>
+    <pre><code>pip install numpy</code></pre>
+
+    <li><b>Pyttsx3:</b> Install using the following command:</li>
+    <pre><code>pip install pyttsx3</code></pre>
+  </ol>
+
+  <p>Make sure to install these dependencies before running the project.</p>
+
+</body>
+</html>
+
 
 Using the haarcascade_frontalface_default.xml file, which is used to detect and recognise faces, we will train the model.
